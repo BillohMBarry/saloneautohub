@@ -1,0 +1,6 @@
+{
+  "name": "SaloneAutoHub — Sierra Leone Spare Parts & Certified Mechanics Marketplace",
+  "description": "Find OEM car parts by make, model, and year, and book certified mechanics across Freetown, Bo, Kenema, and Makeni with SaloneAutoHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
